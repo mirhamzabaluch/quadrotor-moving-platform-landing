@@ -1,0 +1,9 @@
+# MATLAB and Simulink generated files
+slprj/
+*.autosave
+*.asv
+*.m~
+
+# MATLAB editor and test artefacts
+.matlab/
+work/
